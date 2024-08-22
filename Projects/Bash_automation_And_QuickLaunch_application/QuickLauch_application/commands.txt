@@ -1,3 +1,0 @@
-Leetcode=code
-Entertainment=brave-browser
-Development=code
